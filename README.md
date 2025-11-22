@@ -1,4 +1,4 @@
-## demo# Welcome 🖐 to the Responsive Portfolio Website
+# Welcome 🖐 to the Responsive Portfolio Website
 
 This project is a responsive portfolio website created using HTML, CSS, and JavaScript. It showcases projects, skills, and contact information in a layout that adjusts seamlessly across various devices and screen sizes. The design is implemented using CSS for styling and responsiveness, while JavaScript adds interactivity and dynamic content.
 
